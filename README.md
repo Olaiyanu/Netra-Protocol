@@ -6,6 +6,8 @@
 
 Netra Protocol is a professional, high-performance Web3 landing page designed to showcase a ZK-Rollup native blockchain ecosystem. Built with modern frontend technologies, it features a dark-themed aesthetic and glassmorphism effects.
 
+**Live Demo:** [https://netra-protocol.vercel.app](https://netra-protocol.vercel.app)
+
 ## 🚀 Features
 
 - **Immersive UI/UX:** A sleek, dark-mode interface utilizing Tailwind CSS and Framer Motion for smooth, scroll-triggered animations.
@@ -38,7 +40,7 @@ Netra Protocol is a professional, high-performance Web3 landing page designed to
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/netra-protocol.git
+   git clone https://github.com/Olaiyanu/Netra-Protocol.git
    cd netra-protocol
    ```
 
@@ -57,7 +59,7 @@ Netra Protocol is a professional, high-performance Web3 landing page designed to
 
 ```
 netra-protocol/
-├── components/       # UI Components (Hero, Navbar, AIInsightTool, etc.)
+├── components/       # UI Components (Hero, Navbar, Footer, CTA etc.)
 ├── App.tsx          # Main application layout and routing logic
 ├── types.ts         # TypeScript interfaces for data models
 └── index.tsx        # Entry point
